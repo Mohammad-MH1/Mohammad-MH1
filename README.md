@@ -25,7 +25,7 @@ Mohammad-MH1@github
 <br/>
 <br/>
 
-# 🛠️ My Favorite Tools
+## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
@@ -50,3 +50,8 @@ Mohammad-MH1@github
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+## 📬📥 Connnect with Me
+
+<a href="https://www.linkedin.com/in/mohammad-mohammadi-244977230/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+
