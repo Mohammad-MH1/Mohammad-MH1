@@ -42,9 +42,10 @@ Mohammad-MH1@github
 
 ### 🧰 Frameworks and Libraries
 
-<p>
+
+   ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</p>
+
 
 
 ### 💻 Software and Tools
