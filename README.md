@@ -6,7 +6,7 @@ Hi, I'm Mohammad Mohammadi!
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;BackEnd+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/Mohammad-MH1/Mohammad-MH1/blob/main/My_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="360" />
@@ -17,7 +17,7 @@ Hi, I'm Mohammad Mohammadi!
 
 Mohammad-MH1@github
 -------------------------
-💻 I am a self taught BackEnd Developer
+💻 I am a self taught Web Developer
 📚 I am currently studying Computer Science at the KHARAZMI University
 🌟 Main Framework: Django and DRF
 
@@ -34,10 +34,10 @@ Mohammad-MH1@github
 ### 👨‍💻 Programming Languages
 
 <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 
 ### 🧰 Frameworks and Libraries
