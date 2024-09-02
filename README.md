@@ -31,10 +31,11 @@ Mohammad-MH1@github
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming
 
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%230369a1.svg?logo=typescript&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
