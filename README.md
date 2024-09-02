@@ -19,7 +19,7 @@ Mohammad-MH1@github
 -------------------------
 💻 I am a self taught Web Developer
 📚 I am currently studying Computer Science at the KHARAZMI University
-🌟 Main Framework: Django and DRF
+🌟 Main Framework: React & Django
 
 
 
